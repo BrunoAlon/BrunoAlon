@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984e3,100:00cec9&height=220&section=header&text=¡Hola!%20Soy%20BrunoAlon%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Banner de encabezado" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984e3,100:00cec9&height=220&section=header&text=¡Hola!%20Soy%20Bruno%20Alonso%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Banner de encabezado" width="100%" />
 </p>
 
 <p align="center">
